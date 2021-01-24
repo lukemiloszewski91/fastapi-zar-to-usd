@@ -26,4 +26,4 @@ A simple web app using FastAPI to convert ZAR to USD 💱
 `uvicorn main:app --reload`
 
 * Open browser:   
-`[127.0.0.1:8000/form](http://127.0.0.1:8000/form)`
+[127.0.0.1:8000/form](http://127.0.0.1:8000/form)
