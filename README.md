@@ -20,7 +20,7 @@ A simple web app using FastAPI to convert ZAR to USD 💱
 
 * Download packages:  
 `py -m pip install -r requirements.txt` (Windows)   
-`python -m pip install -r requirements.txt` (Mac/Linux)
+`pip install -r requirements.txt` (Mac/Linux)
 
 * Start web app:   
 `uvicorn main:app --reload`
