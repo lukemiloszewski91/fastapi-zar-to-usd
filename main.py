@@ -13,7 +13,7 @@ def read_form():
 
 @app.get("/form")
 def form_post(request: Request):
-    result = "Type a number"
+    result = "Enter an amount (ZAR)"
     return templates.TemplateResponse('form.html', context={'request': request, 'result': result})
 
 
